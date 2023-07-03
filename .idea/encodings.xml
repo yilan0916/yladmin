@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yladmin-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yladmin-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yladmin-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yladmin-generator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yladmin-logging/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yladmin-logging/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yladmin-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yladmin-system/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yladmin-tool/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yladmin-tool/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
